@@ -1,0 +1,16 @@
+ Estamos dando continuidade ao aplicativo
+de pesquisa na web e nos concentraremos na criação
+da interface pública – “visualizações”.
+
+Em nosso aplicativo de enquete, teremos as quatro visualizações a seguir:
+
+\Página “índice” de perguntas – exibe as últimas perguntas.
+
+\Página “detalhe” da pergunta – exibe o texto da pergunta,
+    sem resultados, mas com um formulário para votação.
+
+\Página “resultados” da pergunta – exibe os resultados 
+de uma pergunta específica.
+
+\Ação de votação – lida com a votação para uma escolha 
+específica em uma pergunta específica.
